@@ -37,3 +37,13 @@ Install any missing dependencies with:
 
 ```bash
 pip install numpy pandas scikit-learn matplotlib
+
+```
+
+## Highlights
+
+GridSearchCV: Automates hyperparameter tuning using cross-validation to find the best-performing tree settings.
+
+Visualization: Decision tree plot helps interpret the model's decision process.
+
+Interpretability: Feature importance output provides valuable insights into which attributes affect diabetes progression most.
